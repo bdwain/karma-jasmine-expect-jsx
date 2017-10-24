@@ -25,6 +25,6 @@
   "homepage": "https://github.com/smacker/karma-jasmine-expect-jsx#readme",
   "dependencies": {
     "chalk": "1.1.1",
-    "jasmine-expect-jsx": "^1.1.1"
+    "jasmine-expect-jsx": "^3.0.0"
   }
 }
